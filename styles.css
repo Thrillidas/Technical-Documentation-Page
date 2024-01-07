@@ -58,5 +58,11 @@ article{
 }
 
 code{
-    white-space: pre-line;
+    display: block;
+    background-color: #f7f7f7;
+    padding: 15px;
+    margin: 10px;
+    width: 90%;
+    white-space:pre-line;
+
 }
